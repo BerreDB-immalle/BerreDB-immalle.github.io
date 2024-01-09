@@ -2,8 +2,30 @@ h1{
     font-family:Arial, Helvetica, sans-serif;
 }
 a{
-    display: inline-flexbox;
+    
+    text-decoration: none;
+    color: black;
 }
 a:hover{
     color: #ed7a39;
 }
+.nav{
+    display: inline;
+    
+}
+
+nav li{
+    display: inline;
+    padding-right: 35px;
+font-size: 20px;
+
+}
+
+nav {
+    float: right;
+}
+
+#dag1{
+    color: #ed7a39;
+}
+
