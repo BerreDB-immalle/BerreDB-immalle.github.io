@@ -8,7 +8,7 @@ a:hover {
 
 a {
     text-decoration: none;
-    color: black;
+    
 }
 
 .nav {
@@ -28,7 +28,7 @@ nav {
 }
 
 * {
-    color: black;
+     color: black; 
 
 }
 
@@ -36,14 +36,13 @@ p {
     font-size: 20px;
 }
 
-.info {
+
+
+.active a {
     color: #ed7a39;
+   
 }
 
-a:active {
-    color: #ed7a39
-}
-
-.nav-active {
-    color: #ed7a39;
+li{
+    font-weight: bold;
 }
