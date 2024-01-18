@@ -1,23 +1,25 @@
-h1{
-    font-family:Arial, Helvetica, sans-serif;
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-a:hover{
+a:hover {
     color: #ed7a39;
 }
-a{
+
+a {
     text-decoration: none;
-    color: black ;
+    color: black;
 }
-.nav{
+
+.nav {
     display: inline;
 
 }
 
-nav li{
+nav li {
     display: inline;
     padding-right: 35px;
-font-size: 20px;
+    font-size: 20px;
 
 }
 
@@ -25,14 +27,23 @@ nav {
     float: right;
 }
 
-#dag1{
-    color: #ed7a39;
+* {
+    color: black;
+
 }
-*{
-    color:black;
-    
-}
-p{
+
+p {
     font-size: 20px;
 }
 
+.info {
+    color: #ed7a39;
+}
+
+a:active {
+    color: #ed7a39
+}
+
+.nav-active {
+    color: #ed7a39;
+}
