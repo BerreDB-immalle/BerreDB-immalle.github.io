@@ -73,3 +73,40 @@ footer{
 a:hover {
     color: #ed7a39 !important;
 }
+
+.voorwaarden{
+    margin-left: 25px;
+}
+#facebook{
+    font-weight: bold;
+    margin-left: 600px;
+}
+#linkedin{
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+#instagram{
+    margin-left: 15px;
+    
+}
+
+#article{
+    margin-right: 20%;
+    text-align: left;
+    font-family: sans-serif;
+    
+}
+
+.h1{
+    font-size: 30px;
+}
+
+.h2{
+    font-size: 20px;
+}
+
+.p{
+    font-size: 17.5px;
+    color: #8a8686;
+}
