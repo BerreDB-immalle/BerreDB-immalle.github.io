@@ -1,16 +1,17 @@
+
 h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
 
-
 a {
     text-decoration: none;
-    
+
 }
 
 .nav {
     display: inline;
+    
 
 }
 
@@ -21,12 +22,14 @@ nav li {
 
 }
 
+
+
 nav {
     float: right;
 }
 
 * {
-     color: black; 
+    color:black;
 
 }
 
@@ -38,75 +41,104 @@ p {
 
 .active a {
     color: #ed7a39;
-   
+
 }
 
-li{
+li {
     font-weight: bold;
 }
 
-.footer{
+.footer {
     color: grey;
     font-size: 13px;
 
 }
 
-footer{
-    background-color: black;
-}
 
-#links{
-    color:white;
+
+#links {
+    color: white;
     text-align: center;
     vertical-align: text-top;
 }
 
-#mail{
-     color: white;
-    
+#footer-text{
+    color:white;
 }
 
-#tel{
-    color:white
+#mail {
+    color: white;
+
+}
+
+#tel {
+    color: white
 }
 
 a:hover {
     color: #ed7a39 !important;
 }
 
-.voorwaarden{
+.voorwaarden {
     margin-left: 25px;
 }
-#facebook{
+
+#facebook {
     font-weight: bold;
-    margin-left: 600px;
+    margin-left: 590px;
 }
-#linkedin{
+
+#linkedin {
     font-weight: bold;
     margin-left: 15px;
 }
 
-#instagram{
-    margin-left: 15px;
+#instagram {
     
+    margin-left: 10px;
 }
 
-#article{
+#article {
     margin-right: 20%;
     text-align: left;
     font-family: sans-serif;
-    
+
 }
 
-.h1{
+.h1 {
     font-size: 30px;
 }
 
-.h2{
+.h2 {
     font-size: 20px;
 }
 
-.p{
+.p {
     font-size: 17.5px;
     color: #8a8686;
+}
+
+.link_privacy {
+    color: #ed7a39;
+}
+
+.symbool{
+    color:white !important;
+}
+
+#quick-links{
+    color:white;
+    margin-left: 800px;
+}
+
+footer {
+    background-color: black;
+    
+}
+
+aside{
+    background-color: black;
+    width:20%;
+    float: right;
+    height: 235px;;
 }
