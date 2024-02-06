@@ -142,3 +142,26 @@ aside{
     float: right;
     height: 235px;;
 }
+#info{
+    text-align: left;
+    width:40%
+}
+.textdag{
+    text-align: left;
+    width:40%
+}
+.fotos{
+    float: right;
+    width: 60%;
+    
+}
+.fotos4{
+    float: right;
+    width: 60%;
+    height: 300px;
+}
+#fotos{
+    float: right;
+    width: 60%;
+    height:600px
+}
